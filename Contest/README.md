@@ -11,3 +11,4 @@
 |  همایش زندگی بهتر | 10325 | [🔗 Link](https://quera.ir/problemset/contest/10325/%D8%B3%D8%A4%D8%A7%D9%84-%D9%87%D9%85%D8%A7%DB%8C%D8%B4-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1) | [🔗 Link](https://github.com/0x73am43l/QueraChallenge/blob/main/Contest/better-life-festival.py) |
 |  خوش آمد | 123798 | [🔗 Link](https://quera.ir/problemset/123798/) | [🔗 Link](https://github.com/0x73am43l/QueraChallenge/blob/main/Contest/khosh-amad.py) |
 |  شارژ موبایل | 17244 | [🔗 Link](https://quera.org/problemset/17244/) | [🔗 Link](https://github.com/0x73am43l/QueraChallenge/blob/main/Contest/Charge-Mobile.py) |
+|  رشته چکر | 106795 | [🔗 Link](https://quera.org/problemset/106795/) | [🔗 Link](https://github.com/0x73am43l/QueraChallenge/blob/main/Contest/string-checker.py) |
